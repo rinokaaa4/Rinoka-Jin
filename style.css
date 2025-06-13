@@ -1,0 +1,230 @@
+h1{
+    color: #041b64;
+    margin-left: 5%;
+}
+
+h2{
+    color: #02207b;
+    margin-left: 5%;
+}
+
+hr{
+    color: #0d0c3d;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.Introduction{
+    font-size: 20px;
+    color:#3a63cb;
+} 
+
+.Hobbies{
+    font-size: 20px;
+    color:#3a63cb;
+}
+
+
+.Contact{
+    font-size: 20px;
+    color:#3a63cb;
+}
+
+
+p{
+    font-size: 18px;
+    color:#1a2656;
+    margin-left: 5%;
+}
+
+body{
+    background-image:url(tmd/FullSizeRender.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+a{
+    font-size: 20px;
+    font-weight: bold;
+    color:#0a2b7d;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#FFF;
+}
+
+
+.tt img{
+    float: right;
+    margin-right: 10%;
+    margin-top:2%;
+    border-radius: 20px;
+}
+
+.relationship-article img{
+    float: right;
+    margin-right: 10%;
+    margin-top:2%;
+}
+
+.relationship-article p{
+    text-align: justify;
+    max-width: 65%;
+}
+
+.relationshipsh1{
+    margin-top: 3%;
+}
+
+.junior23 {
+  float: left;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+
+.FAME4 {
+    float: left;
+    margin-left: 5%;
+}
+
+.Shiang {
+    margin-bottom: 5%;
+}
+
+.Latin {
+    float: right;
+    margin-right: 15%;
+    border-radius: 20px;
+}
+
+.Acrylic{
+    float: right;
+    margin-right: 15%;
+    border-radius: 20px;
+}
+
+.personal{
+    float: right;
+    margin-right: 15%;
+    border-radius: 20px;
+}
+
+.pp {
+    position: relative;
+    text-align: center;
+}
+
+.p1 {
+    border-radius: 20px;
+}
+
+.p2 {
+    border-radius: 20px;
+}
+
+.p3 {
+    border-radius: 20px;
+}
+
+.p4 {
+    border-radius: 20px;
+}
+
+.p5 {
+    border-radius: 20px;
+}
+
+.p6 {
+    border-radius: 20px;
+}
+
+.Primary{
+    border-radius: 20px;
+}
+
+.junior2{
+    border-radius: 20px;
+}
+
+.junior3{
+    border-radius: 20px;
+}
+
+.junior4{
+    border-radius: 20px;
+}
+
+.FAME1{
+    border-radius: 20px;
+}
+
+.FAME2{
+    border-radius: 20px;
+}
+
+.FAME3{
+    border-radius: 20px;
+}
+
+.FAME5{
+    border-radius: 20px;
+}
+
+.Family{
+    border-radius: 20px;
+}
+
+.peirong{
+    border-radius: 20px;
+}
+
+.zhonghua{
+    border-radius: 20px;
+}
+
+.chingyou{
+    border-radius: 20px;
+}
+
+.shiang{
+    border-radius: 20px;
+}
+
+.shiang2{
+    border-radius: 20px;
+}
+
+
+.hello{
+    position:fixed;
+    bottom:50px;
+    right: 50px;
+    width: 120px;
+    z-index: 1000;
+    pointer-events: none;
+    animation: float 2s ease-in-out infinite;
+}
+
+.cat1{
+    position: fixed;
+    border-radius: 20px;
+    bottom: 50px;
+    right: 50px;
+    width: 120px;
+    z-index: 1000;
+    pointer-events: none;
+}
+
+.gif{
+    position: fixed;
+    border-radius: 20px;
+    bottom: 50px;
+    right: 50px;
+    width: 120px;
+    z-index: 1000;
+    pointer-events: none;
+}
+
